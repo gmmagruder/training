@@ -1,0 +1,5 @@
+[
+  ["test_files/amazon_test_titles.csv", "test_files/amazon_extra_test_titles.csv"],
+  ["test_files/netflix_test_titles.csv", "test_files/netflix_extra_test_titles.csv"],
+  ["test_files/disney_plus_test_titles.csv", "test_files/disney_plus_extra_test_titles.csv"]
+]
